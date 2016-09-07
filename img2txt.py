@@ -1,4 +1,5 @@
 # exportacao de imagens para arquivos txt
 # criação do diretorio padrao
 
-path = 'dados/txt'
+path_txt = 'dados/txt'
+path_img = 'dados/imagens'
