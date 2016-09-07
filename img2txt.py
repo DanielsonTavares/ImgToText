@@ -1,0 +1,1 @@
+# exportacao de imagens para arquivos txt
